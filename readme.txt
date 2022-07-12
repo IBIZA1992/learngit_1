@@ -12,6 +12,10 @@ This is feature2 !!!
 
 test merge --no-ff
 
+<<<<<<< HEAD
 test merge fast
 
 在dev中前进的
+=======
+test merge fast BUG fixed
+>>>>>>> e914439 (fixed bug 102)
