@@ -12,4 +12,4 @@ This is feature2 !!!
 
 test merge --no-ff
 
-test merge fast
+test merge fast BUG fixed
