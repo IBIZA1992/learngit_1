@@ -11,3 +11,5 @@ Creating a new branch is quick AND.
 This is feature2 !!!
 
 test merge --no-ff
+
+test merge fast
