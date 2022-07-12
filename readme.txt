@@ -9,3 +9,5 @@ Creating a new branch is quick AND.
 >>>>>>> feature1
 
 This is feature2 !!!
+
+test merge --no-ff
